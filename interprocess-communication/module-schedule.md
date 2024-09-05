@@ -1,6 +1,6 @@
 1. Sockets
-	- Sockets lecture: Sep 9
-	- Sockets quiz:    Sep 9
+	- [ x ] Sockets lecture: Sep 9
+	- [ x ] Sockets quiz:    Sep 9
 2. Text echo
 	- Text echo lecture: Sep 11
 	- Project 1:         Sep 12
